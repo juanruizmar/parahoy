@@ -1,5 +1,4 @@
-This repository contain various files that were developped during some months by somebody who was learning how to programming,
-not by a professional, having no warranty of correct results.
+This repository contain various files that were developped during long time by somebody who was learning how to programming, not by a professional, having no warranty of correct results.
 
 Three of these could be compiled producing three programs that work together as a daily planner. 
 The functions provided by them are:
