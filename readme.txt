@@ -6,7 +6,6 @@ The functions provided by them are:
 -Add task for a day (np.cpp)
 -Remove some today task from the agenda (rph.cpp)
 
-The rest of files should be header-files (they are not), containing auxiliar functions and classes, but they contain some
-useful ones and a lot of generic algorithms made for another purposes.
+The rest of files should be header-files (they are not), containing auxiliar functions and classes, but they contain some useful ones and a lot of generic algorithms made for another purposes.
 
 If you like this 'parahoy' planner, you can tell me and maybe I could organize it, getting a optimized and more readable code.
